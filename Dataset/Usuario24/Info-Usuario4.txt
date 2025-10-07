@@ -1,0 +1,5 @@
+Edad: 49 años
+Género: Masculino
+Peso: 80 kilos
+Altura: 165 cm
+Cintura: 102 cm

@@ -1,0 +1,5 @@
+Edad: 76 años
+Género: Femenino
+Peso: 50 kg
+Altura: 142 cm
+Cintura: 87 cm

@@ -1,0 +1,5 @@
+Edad: 44 años
+Género: Femenino
+Peso: 71 kilos
+Altura: 148 cm
+Cintura: 99 cm

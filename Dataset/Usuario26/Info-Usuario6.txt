@@ -1,0 +1,5 @@
+Edad: 22 años
+Género: Masculino
+Peso: 67 kilos
+Altura: 173 cm
+Cintura: 66 cm

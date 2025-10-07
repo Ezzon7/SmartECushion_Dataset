@@ -1,0 +1,5 @@
+Edad: 47 años
+Género: Masculino
+Peso: 82 kilos
+Altura: 171 cm
+Cintura: 116 cm
