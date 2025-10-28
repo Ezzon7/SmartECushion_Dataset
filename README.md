@@ -1,3 +1,1 @@
-#Dataset 
-
-##Dataset utilizado para el entrenamiento del modelo MLP+CNN utilizado en SmartECushion
+Dataset utilizado para el entrenamiento del modelo MLP+CNN utilizado en SmartECushion
